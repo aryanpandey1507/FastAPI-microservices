@@ -1,3 +1,3 @@
 # FastAPI-microservices
-- 🌱 I’m currently learning **Cybersecurity**
-- 🌱 I’m currently learning **Cybersecurity**
+-  Product and Payment microservices developed using fastAPI
+-  I used redis-stream as the messaging queue
